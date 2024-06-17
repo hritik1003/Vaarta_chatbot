@@ -2,7 +2,7 @@
 
 
 ## Description
-Vaarta is a chatbot that responds to the user's query using the concept of natural language processing. In this, it responds to the human language. It is connected to Google Calendar for retrieving events and creating events to get reminders to the e-mail. We can do the following tasks using it:
+Vaarta is an advanced chatbot designed to interact seamlessly with users through natural language processing (NLP). Utilizing sophisticated NLP techniques, Vaarta comprehends and responds to human language, providing an intuitive and engaging user experience. It is integrated with Google Calendar, enabling users to effortlessly retrieve information about their scheduled events and create new events directly through the chatbot. Additionally, Vaarta ensures users never miss important events by sending reminders directly to their email, streamlining event management and improving productivity. By combining the power of natural language processing with practical features like calendar integration and email reminders, Vaarta aims to be a versatile virtual assistant that simplifies task management and enhances user interaction. We can do the following tasks using it:
  1. Scheduling an event (e.g. Remind me to sleep at 10 pm)
  2. Deleting an event (e.g. Delete sleep at 10 pm)
  3. Getting the upcoming events (e.g Show my schedule)
