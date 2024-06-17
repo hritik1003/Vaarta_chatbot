@@ -36,6 +36,6 @@ Python_packages_description.md: to know more about used Python packages.
 
 
 ## Contact
-Name: Hritik Agarwal
-Email: Hritikagarwal96@gmail.com
+Name: Hritik Agarwal \
+Email: hritikagarwal96@gmail.com
 
